@@ -1,0 +1,2 @@
+connect the backend server to react registration form
+complete login register pages
